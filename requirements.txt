@@ -4,6 +4,8 @@ langchain_experimental
 python-dotenv
 sentence-transformers
 psycopg2-binary
-streamlit
 sqlalchemy
 ipykernel
+pgvector
+supabase
+numpy
