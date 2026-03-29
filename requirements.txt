@@ -8,4 +8,3 @@ sqlalchemy
 ipykernel
 pgvector
 supabase
-numpy
